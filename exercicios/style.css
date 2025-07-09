@@ -1,0 +1,32 @@
+h1{
+    color:hotpink;
+}
+
+h2 {
+    color: #ffff;  
+}
+
+p{
+    color: #ffff;
+}
+.exercicio{
+    border: 1px, solid #ddd;
+    padding: 15px;
+    margin-bottom:20px;
+    border-radius:8px;
+    background-color: hotpink;
+}
+
+input, button{
+    margin: 5px 0;
+    padding: 5px;
+}
+
+p{
+    font-weight: bold;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
